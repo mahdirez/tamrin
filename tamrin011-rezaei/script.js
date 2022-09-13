@@ -12,6 +12,6 @@ if (submit) {
   if(name && family && age >= 18 && password >= 6){
     alert(`${name} ${family} ثبت نام شما با موفقیت انجام شد`)
   }else{
-    alert('مشخصات خود را با دقت وارد کنید!!')
+    alert('مشخصات خود راk با دقت وارد کنید!!')
   }
 }
