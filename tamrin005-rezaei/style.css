@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+.header1{
+    background: lightblue;
+    height: 8vh;
+    
+}
+
+.header1 .logo{
+    float: left;
+    width: 50%;
+    margin: 0;
+}
+
+.header1 .nav{
+    float: right;
+    margin: 0;
+    width: 50%;
+}
+
+.header2{
+    background: darkgoldenrod;
+    height: 15vh;
+}
+
+.main1{
+    background: lightsalmon;
+    height: 10vh;
+    margin-bottom: 20px;
+}
+
+.box1{
+    background-color: green;
+    float: left;
+    width: 30%;
+   height: 60vh;
+   margin-right: 5%;
+}
+
+.box2{
+    background-color: red;
+    float: left;
+    width: 30%;
+   height: 60vh;
+   margin-right: 3%;
+}
+.box3{
+    background-color: blue;
+    float: right;
+    width: 30%;
+    height: 60vh;
+    margin-bottom: 20px;
+}
+
+.footer{
+    height: 10vh;
+    background-color: orange;
+}
+
