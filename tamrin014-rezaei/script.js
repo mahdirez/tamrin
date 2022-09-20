@@ -1,7 +1,7 @@
 const submit = confirm('میخواهید بازی کنید؟');
 if(submit){
     const random = Math.floor(Math.random()*10);
-    console.log(random)
+    
 
      let i = 5;
      while (i > 0){
