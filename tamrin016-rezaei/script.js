@@ -14,7 +14,7 @@ function submitForm(event){
     event.preventDefault();
     document.querySelector('ul').innerText = ''
     const inputs = event.target.elements;
-
+    
     const name = inputs.name.value;
     const family = inputs.family.value;
     const email = inputs.email.value;
